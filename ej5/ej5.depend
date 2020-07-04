@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588225512 source:c:\users\alanl665\desktop\c\ej5\main.c
+	<stdio.h>
+	<stdlib.h>
+
